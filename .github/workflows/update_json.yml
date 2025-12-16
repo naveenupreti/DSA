@@ -1,0 +1,36 @@
+﻿name: Update Data JSON
+
+on:
+  push:
+    paths:
+      - 'Syllabus/**'
+      - 'Assignments/**'
+      - 'ebooks/**'
+      - 'ExamPapers/**'
+      - 'Notes_Programs/**'
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run Update Script
+        run: python update_data.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-update data.json with new hidden files"
+          file_pattern: data.json

@@ -1,0 +1,87 @@
+ 
+* WindowsKey+D is the shortcut command to minimize all windows or show desktop command
+
+* uname -a
+This command provides detailed information about the system's kernel and operating system. When you run this command in the terminal, it outputs a single line containing various pieces of information.
+
+Here’s a breakdown of what you might see when you execute uname -a:
+
+Kernel Name: The type of kernel (e.g., Linux).
+Hostname: The name of your machine on the network.
+Kernel Release: The version of the kernel.
+Kernel Version: More detailed version information about the kernel.
+Architecture: The hardware architecture (e.g., x86_64).
+Operating System: The operating system name (if applicable).
+For example, the output might look something like this:
+
+Code
+
+Copy Code
+Linux q4ospc 6.1.0-41-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.158-1 (2025-11-09) x86_64 GNU/Linux
+Breakdown of Example Output
+Linux: Kernel name.
+q4ospc: Hostname.
+6.1.0-41-amd64: Kernel release version.
+#1 SMP PREEMPT_DYNAMIC Debian 6.1.158-1 (2025-11-09): Detailed kernel version and build information.
+x86_64: Architecture.
+GNU/Linux: Operating system.
+
+*dpkg -s package_name
+This command is used on Debian-based Linux distributions (like Debian itself, Ubuntu, etc.) to display the status and details of a specific package installed on the system.
+
+* pip list
+Displays all installed packages.
+
+* pip show pandas
+Displays details of the specific python package.
+
+* pip check
+Verifies all packages are correct.
+
+* find / -name test.c
+This command is used in Linux to search for a file named test.c starting from the root directory (/). Here’s what each part of the command does:
+
+Command Breakdown
+find: This is the command used to search for files and directories in a directory hierarchy.
+/: This specifies the starting point for the search, which in this case is the root directory. The search will include all directories and subdirectories.
+-name: This option tells find to look for files that match the specified name pattern.
+test.c: This is the name of the file you are searching for.
+
+
+* cat -n test.c
+* nl test.c
+Both commands are used to display file contents with line numbers on screen or terminal.
+
+The cat command in Linux is a versatile tool used primarily for working with text files. Here are the key uses and options:
+
+Common Uses of the cat Command
+1. Displaying Contents of a File
+You can use cat to display the contents of a file in the terminal:
+   cat filename.txt
+2. Concatenating Multiple Files
+The cat command can combine multiple files into one. For example:
+
+   cat file1.txt file2.txt > combined.txt
+This command takes the contents of file1.txt and file2.txt and writes them into combined.txt.
+
+3. Appending to a File
+To append the contents of one file to another, use:
+
+   cat file1.txt >> file2.txt
+This appends file1.txt to file2.txt.
+
+4. Numbering Output Lines
+To display the contents of a file with line numbers, use:
+
+   cat -n filename.txt
+
+5. Creating a New File
+You can create a new file and add text to it by using cat with the > operator:
+
+   cat > newfile.txt
+After running this, type your text. To save and exit, press CTRL + D.
+
+6. Displaying Non-Printable Characters
+To view non-printable characters in a file, use:
+
+   cat -v filename.txt
