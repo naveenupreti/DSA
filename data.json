@@ -2,11 +2,11 @@
   "syllabus": [
     {
       "path": "Syllabus/MCA_First_Year_Detailed_Syllabus_2024-25.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "Syllabus/DSA_BMC205_BMC254_Syllabus_MCA_2nd_Sem.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "Syllabus/DSA_BMC205_BMC254_Syllabus_MCA_2nd_Sem.docx",
@@ -17,7 +17,7 @@
     "UNIT-1": [
       {
         "path": "Notes_Programs/UNIT-1/Address Calculation in 1D 2D 3D and nD array.docx",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/BinarySearch_Iteration.pdf",
@@ -33,11 +33,11 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/Linear_BinarySearch.pdf",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/Bubble_Selection_InsertionSort.pdf",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/BinarySearch_Recursion.c",
@@ -65,7 +65,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/DS_Terminology.pdf",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/BinarySearch_Iteration.c",
@@ -73,7 +73,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/Asymptotic Analysis.pdf",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/GCC Compilation Process.docx",
@@ -300,3 +300,4 @@
     }
   ]
 }
+
