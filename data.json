@@ -88,11 +88,11 @@
   "assignments": [
     {
       "path": "Assignments/FrontPageBMC254PracticalFile.docx",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "Assignments/ImportantQuestions_BMC205_DS.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "Assignments/TextFile.txt~",
@@ -102,10 +102,6 @@
       "path": "Assignments/ImportantQuestions_BMC205_DS.docx",
       "hidden": true
     },
-    {
-      "path": "Assignments/TextFile.txt",
-      "hidden": true
-    }
   ],
   "ebooks": [
     {
@@ -114,7 +110,7 @@
     },
     {
       "path": "ebooks/Reema_Thareja_Chapters",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ebooks/DebianLinuxCommands.txt",
@@ -166,7 +162,7 @@
     },
     {
       "path": "ebooks/ReemaThareja_Data Structures Using C 2nd edition.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ebooks/LetUsC_YPK_17thEdition.pdf",
@@ -300,4 +296,5 @@
     }
   ]
 }
+
 
