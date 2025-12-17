@@ -1,0 +1,302 @@
+{
+  "syllabus": [
+    {
+      "path": "Syllabus/MCA_First_Year_Detailed_Syllabus_2024-25.pdf",
+      "hidden": true
+    },
+    {
+      "path": "Syllabus/DSA_BMC205_BMC254_Syllabus_MCA_2nd_Sem.pdf",
+      "hidden": true
+    },
+    {
+      "path": "Syllabus/DSA_BMC205_BMC254_Syllabus_MCA_2nd_Sem.docx",
+      "hidden": true
+    }
+  ],
+  "notes_programs": {
+    "UNIT-1": [
+      {
+        "path": "Notes_Programs/UNIT-1/Address Calculation in 1D 2D 3D and nD array.docx",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/BinarySearch_Iteration.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/Format specifiers in C.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/MatrixMultiplication.c",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/Linear_BinarySearch.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/Bubble_Selection_InsertionSort.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/BinarySearch_Recursion.c",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/Matrix.c",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/11-BigO.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/LUC_PrecedenceTable_StandardLibraryFunctions_ASCII_chart.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/DS_Terminology.docx",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/BubbleSort.c",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/DS_Terminology.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/BinarySearch_Iteration.c",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/Asymptotic Analysis.pdf",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/GCC Compilation Process.docx",
+        "hidden": true
+      }
+    ],
+    "UNIT-2": [],
+    "UNIT-3": [],
+    "UNIT-4": [],
+    "UNIT-5": []
+  },
+  "assignments": [
+    {
+      "path": "Assignments/FrontPageBMC254PracticalFile.docx",
+      "hidden": true
+    },
+    {
+      "path": "Assignments/ImportantQuestions_BMC205_DS.pdf",
+      "hidden": true
+    },
+    {
+      "path": "Assignments/TextFile.txt~",
+      "hidden": true
+    },
+    {
+      "path": "Assignments/ImportantQuestions_BMC205_DS.docx",
+      "hidden": true
+    },
+    {
+      "path": "Assignments/TextFile.txt",
+      "hidden": true
+    }
+  ],
+  "ebooks": [
+    {
+      "path": "ebooks/c-programming-in-linux.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/Reema_Thareja_Chapters",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/DebianLinuxCommands.txt",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/DS_NOTES_BY_Dr_L_V_NARASIMHA_PRASAD.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/CORMEN_Introduction_to_Algorithms_Third_Edition_(2009).pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/data_types_size.c",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/C_The_Complete_Reference_4th_Edition_Herbert Schildt.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/DS_Notes_Dr.Subasish_Mohapatra.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/C Programming Tutorial.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/UnixProgrammingTools.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/TurboC++ Installaion on Linux.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/unix_tutorial.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/C in a Nutshell, Second Edition.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/ReemaThareja_Data Structures Using C 2nd edition.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/LetUsC_YPK_17thEdition.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/Think Like a Programmer - An Intro. to Creative Problem Solving - V. Spraul (No Starch, 2012) BBS.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/21st Century C, 2nd Edition.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ebooks/LUC_split_chapters",
+      "hidden": true
+    }
+  ],
+  "exampapers": [
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-mca-213-2010-11.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2017-18.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2014-15.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-int-4-sem-data-structure-using-c-rcai-402-2019.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2016-17.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-roe-036-2017-18.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/Sessional_1_PaperFormat_BMC102.docx",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2015-16.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-v2-2014-15.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-dual-2-sem-data-structure-using-c-bc202-2019.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca213-2019.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-using-c-mca-213-2009-10.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-2008-09.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-dual-2-sem-data-structure-using-c-nbc-202-2014-15.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-rac-202-2016-17.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-v2-2006-07.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algrorithm-rca-303-2018-19.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2013-14.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2017-18.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2019.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-dual-2-sem-data-structures-using-c-nbc-202-2014-15.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/Sessional_3_PaperFormat_BMC102.docx",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-2006-07.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2019.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/Session_2_PaperFormat_BMC102.docx",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-nmca-312-2017-18.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-using-c-mca-213-2011-12.pdf",
+      "hidden": true
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-using-c-nmca-213-2014-15.pdf",
+      "hidden": true
+    }
+  ]
+}
