@@ -1,0 +1,130 @@
+NBCA-201: DATA STRUCTURE
+LTP: 3 1 0
+
+
+Course Code: NBCA-201 
+
+
+Course Outcomes (COs)
+After the completion of the course, students are expected to have the ability to: 
+
+Represent arrays, linked lists, stacks, and queues in memory using algorithms and their common applications. 
+
+Understand recursion concepts, its applications, implementation, and removal. 
+
+Analyze the computational efficiency of sorting and searching algorithms. 
+
+Implement Trees and Graphs, including various operations on these structures. 
+
+Identify alternative implementations of data structures based on performance for real-world problems. 
+
+Unit-wise Syllabus
+Unit-I: Introduction & Linear Structures (07 Hours)
+
+Introduction: Basic Terminology, Elementary Data Organization, Built-in Data Types, and Abstract Data Types. 
+
+
+Arrays: Derivation of Index Formulae for 1D, 2D, 3D & nD Arrays; Application of arrays. 
+
+
+Linked Lists: Implementation of Singly Linked List and Doubly Linked List. 
+
+Unit-II: Stacks & Queues (08 Hours)
+
+Stacks: Basic operations (Push & Pop), Array implementation in C, Applications: Prefix and Postfix Expressions, and Evaluation of postfix expressions. 
+
+
+
+Queues: Basic operations (Create, Add, Delete), Circular queues, and Array implementation in C. 
+
+Unit-III: Trees (09 Hours)
+
+Basics: Basic terminology, Binary Trees, and Binary Tree Representation (Array and Pointer/Linked List). 
+
+
+
+Types: Binary Search Tree, Strictly Binary Tree, and Complete Binary Tree. 
+
+
+Operations: Extended Binary Trees, Tree Traversal algorithms (In-order, Pre-order, Post-order), and constructing Binary Trees from traversals and insertions. 
+
+Unit-IV: Searching & Sorting (08 Hours)
+
+Searching: Sequential search and Binary Search. 
+
+
+
+Sorting: Insertion Sort, Selection Sort, Bubble Sort, Quick Sort, and Radix Sort. 
+
+Unit-V: Graphs (08 Hours)
+
+Basics: Basic terminology and Graph Representations (Adjacency Matrices, Adjacency List). 
+
+
+
+Traversal: Depth First Search (DFS) and Breadth First Search (BFS). 
+
+
+Advanced Topics: Connected Components, Spanning Trees, and Minimum Cost Spanning Trees (Prim’s and Kruskal’s algorithms). 
+
+Text & Reference Books
+
+Text Books: 
+
+Aaron M. Tenenbaum, Yedidyah Langsam, and Moshe J. Augenstein, "Data Structures Using C and C++", PHI. 
+
+R. Kruse et al., "Data Structures and Program Design in C", Pearson Education. 
+
+Thareja, "Data Structure Using C", Oxford Higher Education. 
+
+
+Reference Books: 
+
+Horowitz and Sahani, "Fundamentals of Data Structures", Galgotia Publication. 
+
+Lipschutz, "Data Structures", Schaum's Outline Series, TMH. 
+
+NBCA-206P: DATA STRUCTURE LAB
+
+LTP: 0 0 3 
+
+
+List of Experiments
+Addition and multiplication of two 2D arrays. 
+
+Transpose of a 2D array. 
+
+Implement stack using an array. 
+
+Implement stack using a linked list. 
+
+Implement queue using an array. 
+
+Implement queue using a linked list. 
+
+Implement circular queue using an array. 
+
+Implement circular queue using a linked list. 
+
+Implement binary tree using a linked list. 
+
+Implement binary search tree using a linked list. 
+
+Implement tree traversals using a linked list. 
+
+Implement BFS using a linked list. 
+
+Implement DFS using a linked list. 
+
+Implement Linear Search. 
+
+Implement Binary Search. 
+
+Implement Bubble Sorting. 
+
+Implement Selection Sorting. 
+
+Implement Insertion Sorting. 
+
+
+Note: The instructor may add, delete, or modify experiments as justified.
