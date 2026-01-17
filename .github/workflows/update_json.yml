@@ -1,4 +1,4 @@
-﻿name: Update Data JSON
+name: Update Data JSON
 
 on:
   push:
@@ -10,6 +10,7 @@ on:
       - 'Notes_Programs/**'
     branches:
       - main
+  workflow_dispatch: # This adds the "Run workflow" button you were looking for
 
 permissions:
   contents: write
@@ -32,5 +33,5 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-update data.json with new hidden files"
+          commit_message: "Auto-update data.json"
           file_pattern: data.json
