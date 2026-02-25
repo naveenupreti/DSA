@@ -90,12 +90,12 @@
       {
         "path": "Notes_Programs/UNIT-1/GCC Compilation Process.docx",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/ArrayOperations1D.c",
+        "hidden": false
       }
-    ],
-    "UNIT-2": [],
-    "UNIT-3": [],
-    "UNIT-4": [],
-    "UNIT-5": []
+    ]
   },
   "assignments": [
     {
@@ -105,10 +105,6 @@
     {
       "path": "Assignments/ImportantQuestions_BMC205_DS.pdf",
       "hidden": false
-    },
-    {
-      "path": "Assignments/TextFile.txt~",
-      "hidden": true
     },
     {
       "path": "Assignments/ImportantQuestions_BMC205_DS.docx",
