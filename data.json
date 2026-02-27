@@ -106,6 +106,10 @@
       {
         "path": "Notes_Programs/UNIT-1/SparseMatrix.pdf",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/SparseMatrix.c",
+        "hidden": false
       }
     ]
   },
