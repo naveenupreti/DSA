@@ -118,6 +118,14 @@
       {
         "path": "Notes_Programs/UNIT-1/SingleLinkedListInsertionDeletion.pdf",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/StackImplementationUsingLinkedList.c",
+        "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/StackImplementationUsingArray.c",
+        "hidden": false
       }
     ]
   },
