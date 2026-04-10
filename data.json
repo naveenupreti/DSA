@@ -132,6 +132,10 @@
       {
         "path": "Notes_Programs/UNIT-2/postfix_eval_float.c",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-2/infix_postfix_prefix.c",
+        "hidden": false
       }
     ]
   },
