@@ -157,8 +157,4 @@ int main() {
 Enter postfix expression (space separated):
 -12.5 2 3 + *
 Result = -62.50
-
---------------------------------
-Process exited after 15.86 seconds with return value 0
-Press any key to continue . . .
 */
