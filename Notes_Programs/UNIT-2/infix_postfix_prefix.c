@@ -22,17 +22,54 @@ Prefix Expression: /+A*B-CD-E*FG
 char stack[MAX];
 int top = -1;
 
-// Push an element into stack
+/* Push an element into stack
 void push(char x) {
     stack[++top] = x;
 }
+*/
+// Push an element into stack (without using ++ inside array index)
+void push(char x) {
 
-// Pop an element from stack
+    // Step 1: Check for stack overflow
+    if (top == MAX - 1) {
+        printf("Stack Overflow\n");
+        return;
+    }
+
+    // Step 2: Increment top FIRST
+    top = top + 1;
+
+    // Step 3: Place element at new top position
+    stack[top] = x;
+}
+
+/* Pop an element from stack
 char pop() {
     if (top == -1)
         return -1;
     else
         return stack[top--];
+}
+*/
+// Pop an element from stack (without using -- inside array index)
+char pop() {
+
+    char item;
+
+    // Step 1: Check for stack underflow
+    if (top == -1) {
+        printf("Stack Underflow\n");
+        return -1;
+    }
+
+    // Step 2: Store the top element
+    item = stack[top];
+
+    // Step 3: Decrement top AFTER accessing element
+    top = top - 1;
+
+    // Step 4: Return popped element
+    return item;
 }
 
 // Check precedence of operators
@@ -58,6 +95,14 @@ void infixToPostfix(char infix[], char postfix[]) {
         ch = infix[i];
 
         // If operand → add to postfix
+        /*
+        isalnum(ch) is a library function in C (from <ctype.h>) that checks whether a character is:
+        Alphanumeric
+		Alphabet (A–Z, a–z)
+		Digit (0–9)
+		Returns non-zero (true) → if ch is a letter or digit
+		Returns 0 (false) → otherwise
+        */
         if (isalnum(ch)) {
             postfix[j++] = ch;
         }
