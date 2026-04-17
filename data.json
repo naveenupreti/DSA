@@ -157,6 +157,12 @@
         "path": "Notes_Programs/UNIT-2/LinearQueueUsingArray_LinkedList.pdf",
         "hidden": false
       }
+    ],
+    "Sorting": [
+      {
+        "path": "Notes_Programs/Sorting/QuickSort.pdf",
+        "hidden": false
+      }
     ]
   },
   "assignments": [
