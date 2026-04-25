@@ -252,6 +252,22 @@
       {
         "path": "Notes_Programs/UNIT-5/test.txt",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-5/LongestCommonSubsequence.pdf",
+        "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-5/FloydWarshall Algo.pdf",
+        "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-5/stressen_formula.png",
+        "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-5/Strassen\u00e2s Matrix Multiplication.pdf",
+        "hidden": false
       }
     ]
   },
