@@ -45,7 +45,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/MatrixMultiplication.c",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/Linear_BinarySearch.pdf",
@@ -304,7 +304,7 @@
     },
     {
       "path": "ebooks/Reema_Thareja_Chapters",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ebooks/DebianLinuxCommands.txt",
@@ -316,7 +316,7 @@
     },
     {
       "path": "ebooks/CORMEN_Introduction_to_Algorithms_Third_Edition_(2009).pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ebooks/data_types_size.c",
@@ -378,55 +378,55 @@
   "exampapers": [
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-mca-213-2010-11.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2017-18.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2014-15.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-int-4-sem-data-structure-using-c-rcai-402-2019.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2016-17.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-roe-036-2017-18.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/Sessional_1_PaperFormat_BMC102.docx",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2015-16.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-v2-2014-15.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-dual-2-sem-data-structure-using-c-bc202-2019.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca213-2019.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-using-c-mca-213-2009-10.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-2008-09.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-dual-2-sem-data-structure-using-c-nbc-202-2014-15.pdf",
@@ -434,51 +434,51 @@
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-rac-202-2016-17.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-v2-2006-07.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algrorithm-rca-303-2018-19.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2013-14.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2017-18.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2019.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-dual-2-sem-data-structures-using-c-nbc-202-2014-15.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/Sessional_3_PaperFormat_BMC102.docx",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-2006-07.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2019.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/Session_2_PaperFormat_BMC102.docx",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-nmca-312-2017-18.pdf",
-      "hidden": true
+      "hidden": false
     },
     {
       "path": "ExamPapers/mca-2-sem-data-structures-using-c-mca-213-2011-12.pdf",
