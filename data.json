@@ -304,7 +304,7 @@
     },
     {
       "path": "ebooks/Reema_Thareja_Chapters",
-      "hidden": false
+      "hidden": true
     },
     {
       "path": "ebooks/DebianLinuxCommands.txt",
