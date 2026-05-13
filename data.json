@@ -285,12 +285,8 @@
   },
   "assignments": [
     {
-      "path": "Assignments/DSA_BMC254_PracticalFile_MCA(25-26).docx",
-      "hidden": false
-    },
-    {
       "path": "Assignments/FrontPageBMC254PracticalFile.docx",
-      "hidden": false
+      "hidden": true
     },
     {
       "path": "Assignments/ImportantQuestions_BMC205_DS.pdf",
