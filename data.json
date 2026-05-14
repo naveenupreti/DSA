@@ -384,12 +384,12 @@
     }
   ],
   "exampapers": [
-     {
-      "path": "ExamPapers/NBCA201_Data Structures_2024.pdf",
-      "hidden": false
-    },
     {
       "path": "ExamPapers/NBCA201_Data Structures_2025.pdf",
+      "hidden": false
+    }, 
+    {
+      "path": "ExamPapers/NBCA201_Data Structures_2024.pdf",
       "hidden": false
     },
     {
@@ -413,35 +413,7 @@
       "hidden": false
     },
     {
-      "path": "ExamPapers/mca-2-sem-data-structure-using-c-mca-213-2010-11.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2017-18.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2014-15.pdf",
-      "hidden": false
-    },
-    {
       "path": "ExamPapers/mca-int-4-sem-data-structure-using-c-rcai-402-2019.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2016-17.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-roe-036-2017-18.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2015-16.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-v2-2014-15.pdf",
       "hidden": false
     },
     {
@@ -452,6 +424,54 @@
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca213-2019.pdf",
       "hidden": false
     },
+    {
+      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algrorithm-rca-303-2018-19.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2019.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2017-18.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-roe-036-2017-18.pdf",
+      "hidden": false
+    },
+     {
+      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-nmca-312-2017-18.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2017-18.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-mca-213-2010-11.pdf",
+      "hidden": false
+    },
+   
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2014-15.pdf",
+      "hidden": false
+    },
+    
+    {
+      "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2016-17.pdf",
+      "hidden": false
+    },
+    
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2015-16.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-v2-2014-15.pdf",
+      "hidden": false
+    },
+    
     {
       "path": "ExamPapers/mca-2-sem-data-structures-using-c-mca-213-2009-10.pdf",
       "hidden": false
@@ -472,18 +492,12 @@
       "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-v2-2006-07.pdf",
       "hidden": false
     },
-    {
-      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algrorithm-rca-303-2018-19.pdf",
-      "hidden": false
-    },
+    
     {
       "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2013-14.pdf",
       "hidden": false
     },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2017-18.pdf",
-      "hidden": false
-    },
+    
     {
       "path": "ExamPapers/mca-2-sem-data-structures-rca-202-2019.pdf",
       "hidden": false
@@ -496,14 +510,8 @@
       "path": "ExamPapers/mca-2-sem-data-and-file-structure-using-c-mca-202-2006-07.pdf",
       "hidden": false
     },
-    {
-      "path": "ExamPapers/mca-2-sem-data-structures-and-file-handling-ca-204-2019.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/mca-3-sem-design-and-analysis-of-algorithms-nmca-312-2017-18.pdf",
-      "hidden": false
-    },
+    
+   
     {
       "path": "ExamPapers/mca-2-sem-data-structures-using-c-mca-213-2011-12.pdf",
       "hidden": true
