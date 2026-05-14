@@ -393,6 +393,26 @@
       "hidden": false
     },
     {
+      "path": "ExamPapers/BMC205_mca-2-sem-data-structures-and-analysis-of-algorithms_2024-25.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2024-25.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/KCA205_Data_Structures_Analysis_of_Algorithms_2023-24.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2022-23.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2021-22.pdf",
+      "hidden": false
+    },
+    {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-mca-213-2010-11.pdf",
       "hidden": false
     },
@@ -491,26 +511,7 @@
     {
       "path": "ExamPapers/mca-2-sem-data-structures-using-c-nmca-213-2014-15.pdf",
       "hidden": true
-    },
-    {
-      "path": "ExamPapers/KCA205_Data_Structures_Analysis_of_Algorithms_2023-24.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2022-23.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/BMC205_mca-2-sem-data-structures-and-analysis-of-algorithms_2024-25.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2024-25.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2021-22.pdf",
-      "hidden": false
     }
+    
   ]
 }
