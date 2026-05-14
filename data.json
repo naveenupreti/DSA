@@ -385,6 +385,10 @@
   ],
   "exampapers": [
     {
+      "path": "ExamPapers/BMC205_DSA_MCA2ndSem_2026.pdf",
+      "hidden": false
+    },
+    {
       "path": "ExamPapers/NBCA201_Data Structures_2025.pdf",
       "hidden": false
     },
@@ -512,10 +516,7 @@
       "path": "ExamPapers/mca-2-sem-data-structures-using-c-nmca-213-2014-15.pdf",
       "hidden": true
     },
-    {
-      "path": "ExamPapers/BMC205_DSA_MCA2ndSem_2026.pdf",
-      "hidden": false
-    },
+    
     {
       "path": "ExamPapers/MCA",
       "hidden": false
