@@ -409,10 +409,6 @@
       "hidden": false
     },
     {
-      "path": "ExamPapers/Sessional_1_PaperFormat_BMC102.docx",
-      "hidden": false
-    },
-    {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-nmca-213-2015-16.pdf",
       "hidden": false
     },
@@ -518,6 +514,10 @@
     },
     {
       "path": "ExamPapers/BCA",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/MCA",
       "hidden": false
     }
   ]
