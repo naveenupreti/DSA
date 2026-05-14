@@ -384,6 +384,14 @@
     }
   ],
   "exampapers": [
+     {
+      "path": "ExamPapers/NBCA201_Data Structures_2024.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/NBCA201_Data Structures_2025.pdf",
+      "hidden": false
+    },
     {
       "path": "ExamPapers/mca-2-sem-data-structure-using-c-mca-213-2010-11.pdf",
       "hidden": false
@@ -502,18 +510,6 @@
     },
     {
       "path": "ExamPapers/KCA205_DATA_STRUCTURES_ANALYSIS_OF_ALGORITHMS_2021-22.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/MCA",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/NBCA201_Data Structures_2024.pdf",
-      "hidden": false
-    },
-    {
-      "path": "ExamPapers/NBCA201_Data Structures_2025.pdf",
       "hidden": false
     }
   ]
