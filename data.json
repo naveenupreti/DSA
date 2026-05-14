@@ -505,15 +505,15 @@
       "hidden": false
     },
     {
-      "path": "ExamPapers/BCA",
-      "hidden": false
-    },
-    {
       "path": "ExamPapers/MCA",
       "hidden": false
     },
     {
       "path": "ExamPapers/NBCA201_Data Structures_2024.pdf",
+      "hidden": false
+    },
+    {
+      "path": "ExamPapers/NBCA201_Data Structures_2025.pdf",
       "hidden": false
     }
   ]
