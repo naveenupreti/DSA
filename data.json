@@ -511,6 +511,10 @@
     {
       "path": "ExamPapers/MCA",
       "hidden": false
+    },
+    {
+      "path": "ExamPapers/NBCA201_Data Structures_2024.pdf",
+      "hidden": false
     }
   ]
 }
